@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 - [x] User can sign up to create a new account using Parse authentication.
 - [x] User can log in and log out of his or her account.
-- [] The current signed in user is persisted across app restarts.
+- [ ] The current signed in user is persisted across app restarts.
 - [x] User can take a photo, add a caption, and post it to "Instagram".
 
 The following **optional** features are implemented:
@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://i.imgur.com/TGBLIqB.gif' />
-<img src='https://i.imgur.com/gCWKJAi.gif' />
+<img src='https://i.imgur.com/TGBLIqB.gif' /> <img src='https://i.imgur.com/gCWKJAi.gif' />
 
 
 ## Notes
