@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://i.imgur.com/TGBLIqB.gif' /> <img src='https://i.imgur.com/gCWKJAi.gif' />
+
+<img src='https://i.imgur.com/TGBLIqB.gif'/> 
+<img src='https://i.imgur.com/gCWKJAi.gif'/>
 
 
 ## Notes
